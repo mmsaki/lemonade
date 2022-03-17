@@ -159,7 +159,7 @@ greater resources, additional access to capital and more types of insurance cove
 
 * What are some of the core metrics that companies in this domain use to measure success? How is Lemonade, inc. performing, based on these metrics?
 
-1.  [Lemonade (LMND) Stock](https://www.google.com/finance/quote/LMND:NYSE). Lemonade has seen a growth in stock value since it's listing. <a name="1">[1]</a>
+1.  [Lemonade (LMND) Stock](https://www.google.com/finance/quote/LMND:NYSE). Lemonade has seen a growth in stock value since it's listing. <a name="12">[12]</a>
 
 | |July 2, 2020|	December 31, 2020|	December 31, 2021|	
 | :-: | :-: | :-: |:-: |
