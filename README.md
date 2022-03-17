@@ -1,6 +1,15 @@
 # Lemonade, Inc. Case Study 
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fres.cloudinary.com%2Fvalue-penguin%2Fimage%2Fupload%2Fc_lfill%2Fdpr_1.0%2Ff_auto%2Fh_800%2Fq_auto%2Fw_800%2Fv1%2Freferral_logos%2Fus%2Finsurance%2Flemonade-1&f=1&nofb=1" width="200" height="115">
 
+# [Case Study Outline](/README.md)
+## 1. [👋 **Introduction**](/README.md#1-👋-introduction)
+## 2. [🦍 **Who are the founders of Lemonade, Inc?**](/README.md#2-🦍-who-are-the-founders-of-lemonade-inc) 
+## 3. [✍️ **Business Activities**](/README.md#3-✍️-business-activities)
+## 4. [🏂 **Landscape**](/README.md#4-🏂-landscape)
+## 5. [👀 **Results**](/README.md#5-👀-results)
+## 6. [🗣️ **Recommendations**](/README.md#6-🗣️-recommendations)
+## 7. [📚 **Sources**](/README.md#7-📚-sources)
+- - -  
 ## 1. [👋 **Introduction**](#👋-introduction)
 
 * Name of company:
@@ -97,7 +106,7 @@
     * Lemonade, Erie Insurance, American Family, Allstate, Assurant, Liberty Mutual, State Farm, Travelers, Geico and Progressive.
 
 
-## 5. [👀 **Results**](#👀-results)
+## 5. <a name="5-👀-results"> [👀 **Results**]</a>
 
 * What has been the business impact of Lemonade, inc. so far?
 
