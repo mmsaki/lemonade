@@ -101,10 +101,7 @@ Lemonade believes Mr. Wininger is qualified to serve on board of directors due t
         When a claims experience specialist logs in to Blender, for example, they instantly see all claims assigned to them by **AI Jim**. Blender then provides them with instructions for next steps, and when possible, includes coverage determinations, and alerts of suspicious activity. Critically, they will also see an extraordinary amount of information about the users' behavior patterns and their claim, background information, risk indicators, insurance history, and much more. If a vendor is needed, for example, to assess the damage, all appropriate suppliers will pop up in Blender, and can be dispatched to the field, and paid, at the push of a button. Blender brings similar integrated, customer-centric, and focused workflows to the other Lemonade teams as well. <a name="1">[1]</a>
     * **Cooper**
        * Cooper is the internal bot (Lemonade likes to think of him as their Jarvis) who runs important parts of Lemonade. Cooper handles complex as well as repetitive tasks, from helping customer experience team handle lengthy, manual processes such as processing paper checks, to automatically running tens of thousands of tests on each release of their software. Cooper continuously analyzes spectrometry imaging beamed from **NASA's satellites**, identifying wildfires in real time and blocking ads and sales in the affected areas; Cooper collates and formats materials for regulatory filings; and he even handles most of the engineering task allocation, code deployment, Q&A, and more. Cooper makes the team dramatically more efficient and keeps evolving and learning with time.<a name="1">[1]</a>
-     * *Other Technologies used:*  
-        * Lemonade profile on Stackshare <a name="12">[12]</a>
-     ![Technolgies](/technologies%20used.png)
-
+     
 ## 4. 🏂 **Landscape**
 
 * What domain of the financial industry is Lemonade in?
