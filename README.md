@@ -159,7 +159,7 @@ greater resources, additional access to capital and more types of insurance cove
 
 * What are some of the core metrics that companies in this domain use to measure success? How is Lemonade, inc. performing, based on these metrics?
 
-1.  Stocks. Lemonade has seen a growth in stock value since it's listing. <a name="1">[1]</a>
+1.  [Lemonade (LMND) Stock](https://www.google.com/finance/quote/LMND:NYSE). Lemonade has seen a growth in stock value since it's listing. <a name="1">[1]</a>
 
 | |July 2, 2020|	December 31, 2020|	December 31, 2021|	
 | :-: | :-: | :-: |:-: |
@@ -235,18 +235,18 @@ greater resources, additional access to capital and more types of insurance cove
 
 --- 
 ## 7. 📚 **Sources** 
-[Sec Lemonade, Inc 10k 2021](https://www.sec.gov/Archives/edgar/data/0001691421/000169142122000015/lmnd-20211231.htm) <sup>[1](#1)</sup>
-[Lemonade, Inc. Crunchbase Funding rounds](https://www.crunchbase.com/organization/lemonade) <sup>[2](#2)</sup>
-[Interview with Daniel Schreiber, CEO and Co-Founder of Lemonade, Inc.](https://medium.com/wharton-fintech/interview-with-daniel-schreiber-ceo-and-co-founder-of-lemonade-1a6aef384e2f) <sup>[3](#3)</sup>
-[Meet Kevin Episode 24, CEO of Lemonade, Inc.](https://www.youtube.com/watch?v=-1qa7U62NxM) <sup>[4](#4)</sup>
-[Lemonade, Inc. Open Source Policy on Github](https://github.com/lemonade-hq) <sup>[5](#5)</sup>
-[Lemonade insurance review: Easy-to-use digital insurance provider with low rates](https://www.businessinsider.com/personal-finance/lemonade-insurance-review) <sup>[6](#6)</sup>
-[The Lemonade effect: What every business can learn from this startup’s focus on scarcity](https://www.smartcompany.com.au/startupsmart/analysis/lemonade-focus-scarcity-startup/) <sup>[7](#7)</sup>
-[Lemonade Q&A: Pet insurance, consumer education](https://www.dig-in.com/list/lemonade-pet-insurance-consumer-education) <sup>[8](#8)</sup>
-[Home Insurers Struggle with Customer Loyalty as Boomers Flock to Rental Market, J.D. Power Finds](https://www.jdpower.com/business/press-releases/2021-us-home-insurance-study) <sup>[9](#9)</sup>
-[Lemonade insurance review: Easy-to-use digital insurance provider with low rates](https://www.businessinsider.com/personal-finance/lemonade-insurance-review) <sup>[10](#10)</sup>
-[https://www.dig-in.com/news/lemonade-car-insurance-launches](https://www.businesswire.com/news/home/20211103005308/en/Lemonade-Car-Launches%21) <sup>[11](#11)</sup>
-[Lemonade on Stackshare](https://stackshare.io/lemonade/lemonade) <sup>[12](#12)</sup>
-[Society of Actuaries Research Institute InsureTech Connect 2021](https://www.soa.org/globalassets/assets/files/resources/research-report/2021/2021-insuretech-connect.pdf) <sup>[13](#13)</sup>
-[Lemonade’s S-4: Background surrounding the Metromile acquisition](https://coverager.com/lemonades-s-4-background-surrounding-the-metromile-acquisition) <sub>[14](#14)</sub>
-[Lemonade](https://www.lemonade.com) <sub>[15](#15)</sub>
+1. [Sec Lemonade, Inc 10k 2021](https://www.sec.gov/Archives/edgar/data/0001691421/000169142122000015/lmnd-20211231.htm) <sup>[1](#1)</sup>
+2. [Lemonade, Inc. Crunchbase Funding rounds](https://www.crunchbase.com/organization/lemonade) <sup>[2](#2)</sup>
+3. [Interview with Daniel Schreiber, CEO and Co-Founder of Lemonade, Inc.](https://medium.com/wharton-fintech/interview-with-daniel-schreiber-ceo-and-co-founder-of-lemonade-1a6aef384e2f) <sup>[3](#3)</sup>
+4. [Meet Kevin Episode 24, CEO of Lemonade, Inc.](https://www.youtube.com/watch?v=-1qa7U62NxM) <sup>[4](#4)</sup>
+5. [Lemonade, Inc. Open Source Policy on Github](https://github.com/lemonade-hq) <sup>[5](#5)</sup>
+6. [Lemonade insurance review: Easy-to-use digital insurance provider with low rates](https://www.businessinsider.com/personal-finance/lemonade-insurance-review) <sup>[6](#6)</sup>
+7. [The Lemonade effect: What every business can learn from this startup’s focus on scarcity](https://www.smartcompany.com.au/startupsmart/analysis/lemonade-focus-scarcity-startup/) <sup>[7](#7)</sup>
+8. [Lemonade Q&A: Pet insurance, consumer education](https://www.dig-in.com/list/lemonade-pet-insurance-consumer-education) <sup>[8](#8)</sup>
+9. [Home Insurers Struggle with Customer Loyalty as Boomers Flock to Rental Market, J.D. Power Finds](https://www.jdpower.com/business/press-releases/2021-us-home-insurance-study) <sup>[9](#9)</sup>
+10. [Lemonade insurance review: Easy-to-use digital insurance provider with low rates](https://www.businessinsider.com/personal-finance/lemonade-insurance-review) <sup>[10](#10)</sup>
+11. [https://www.dig-in.com/news/lemonade-car-insurance-launches](https://www.businesswire.com/news/home/20211103005308/en/Lemonade-Car-Launches%21) <sup>[11](#11)</sup>
+12. [Lemonade on Stackshare](https://stackshare.io/lemonade/lemonade) <sup>[12](#12)</sup>
+13. [Society of Actuaries Research Institute InsureTech Connect 2021](https://www.soa.org/globalassets/assets/files/resources/research-report/2021/2021-insuretech-connect.pdf) <sup>[13](#13)</sup>
+14. [Lemonade’s S-4: Background surrounding the Metromile acquisition](https://coverager.com/lemonades-s-4-background-surrounding-the-metromile-acquisition) <sub>[14](#14)</sub>
+15. [Lemonade](https://www.lemonade.com) <sub>[15](#15)</sub>
