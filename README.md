@@ -1,9 +1,15 @@
-# Lemonade, Inc. Case Study 🦉
+<div align="center">
+ <h1> Lemonade, Inc. Case Study 🦉 </h1>
+
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fres.cloudinary.com%2Fvalue-penguin%2Fimage%2Fupload%2Fc_lfill%2Fdpr_1.0%2Ff_auto%2Fh_800%2Fq_auto%2Fw_800%2Fv1%2Freferral_logos%2Fus%2Finsurance%2Flemonade-1&f=1&nofb=1" width="200" height="115">
 
-[![Lemonade Comercial](http://img.youtube.com/vi/3Eu-uVceivY/0.jpg)](https://youtu.be/3Eu-uVceivY)
 
-# Case Study Outline
+[![Lemonade Comercial](http://img.youtube.com/vi/3Eu-uVceivY/0.jpg)](https://youtu.be/3Eu-uVceivY)
+</div>
+
+<h1 align="center"> Case Study Outline </h1>
+
+
 1. [👋 **Introduction**](/README.md#1--introduction)
 2. [🦍 **Who are the founders of Lemonade, Inc?**](/README.md#2--the-founders-of-lemonade-inc) 
 3. [✍️ **Business Activities**](/README.md#3-%EF%B8%8F-business-activities)
@@ -12,7 +18,9 @@
 6. [🗣️ **Recommendations**](README.md#6-%EF%B8%8F-recommendations)
 7. [📚 **Sources**](/README.md#7--sources)
 - - -  
-## 1. 👋 **Introduction**
+
+
+## 1. 👋 **Introduction** 
 
 * Name of company:
     * [Lemonade, Inc](https://www.lemonade.com) 
