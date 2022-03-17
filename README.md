@@ -160,16 +160,15 @@ greater resources, additional access to capital and more types of insurance cove
 * What are some of the core metrics that companies in this domain use to measure success? How is Lemonade, inc. performing, based on these metrics?
 
 1.  Stocks. Lemonade has seen a growth in stock value since it's listing. <a name="1">[1]</a>
-<div align="center">
 
 | |July 2, 2020|	December 31, 2020|	December 31, 2021|	
 | :-: | :-: | :-: |:-: |
 |Lemonade, Inc.	|$100.00	|$422.41|	$145.21|	
 |Nasdaq Composite Index	|$100.00|	$123.78	|$153.27	|
-|Nasdaq Insurance Index	|$100.00|	$123.27	|$140.90 |
-</div>
+|Nasdaq Insurance Index	|$100.00|	$123.27	|$140.90 | 
+   <br>
+
 2.  Taxes. The components of the net deferred tax assets are as follows ($ in millions): <a name="1">[1]</a>
-<div align="center">
 
 | |2021	| 	2020|	
 | :-: | :-: | :-: |
@@ -190,7 +189,6 @@ greater resources, additional access to capital and more types of insurance cove
 |Total gross deferred tax liabilities|	(6.8)		|	(1.7)|						
 |Valuation allowance	|(139.0)		|	(106.9)		|
 |Total deferred tax assets, net|	$	— 			|$	— 	 |
-</div>
 
 * How is Lemonade, inc.  performing relative to competitors in the same domain?
     * Users are switching from other insurers: <a name="15">[15]</a>
