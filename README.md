@@ -65,7 +65,7 @@
     The remaining premiums are used to pay out claims.
      If there’s money left over, it goes directly to a social cause chosen by each customer. 
      This changes the nature of their relationship with their policyholders and builds trust. 
-        * As a tech company doing insurance, Lemonade is constantly updating and expanding our products. Since the launch in 2015, they expanded and built a variety of packages and offerings in what they consider one of the most customizable options for pet owners. Whether it’s their preventative care package designed specifically for puppies and kittens, or their physical therapy add-on to support those that need a little extra care, various options are available so customers can have pet health insurance that is personalized to their needs.
+        * As a tech company doing insurance, Lemonade is constantly updating and expanding their products. Since the launch in 2015, they expanded and built a variety of packages and offerings in what they consider one of the most customizable options for pet owners. Whether it’s their preventative care package designed specifically for puppies and kittens, or their physical therapy add-on to support those that need a little extra care, various options are available so customers can have pet health insurance that is personalized to their needs.
 * Who is the Lemonade's intended customer?  Is there any information about the market size of this set of customers?
     * Life insurance, Pets insurance, Car insurance, Renter's and Home Owners insurance. 
 * What solution does Lemonade offer that their competitors do not or cannot offer?
