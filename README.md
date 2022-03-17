@@ -1,16 +1,16 @@
-# Lemonade, Inc. Case Study 
+# Lemonade, Inc. Case Study 🦉
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fres.cloudinary.com%2Fvalue-penguin%2Fimage%2Fupload%2Fc_lfill%2Fdpr_1.0%2Ff_auto%2Fh_800%2Fq_auto%2Fw_800%2Fv1%2Freferral_logos%2Fus%2Finsurance%2Flemonade-1&f=1&nofb=1" width="200" height="115">
 
 [![Lemonade Comercial](http://img.youtube.com/vi/3Eu-uVceivY/0.jpg)](https://youtu.be/3Eu-uVceivY)
 
-# [Case Study Outline](/README.md)
-## 1. [👋 **Introduction**](/README.md#1-👋-introduction)
-## 2. [🦍 **Who are the founders of Lemonade, Inc?**](/README.md#2-🦍-who-are-the-founders-of-lemonade-inc) 
-## 3. [✍️ **Business Activities**](/README.md#3-✍️-business-activities)
-## 4. [🏂 **Landscape**](/README.md#4-🏂-landscape)
-## 5. [👀 **Results**](/README.md#5-👀-results)
-## 6. [🗣️ **Recommendations**](/README.md#6-🗣️-recommendations)
-## 7. [📚 **Sources**](/README.md#7-📚-sources)
+# Case Study Outline
+1. [👋 **Introduction**](#1-👋-introduction)
+2. [🦍 **Who are the founders of Lemonade, Inc?**](#2-🦍-the-founders-of-lemonade-inc) 
+3. [✍️ **Business Activities**](#3-✍️-business-activities)
+4. [🏂 **Landscape**](#4-🏂-landscape)
+5. [👀 **Results**](#5-👀-results)
+6. [🗣️ **Recommendations**](#6-🗣️-recommendations)
+7. [📚 **Sources**](#7-📚-sources)
 - - -  
 ## 1. [👋 **Introduction**](#👋-introduction)
 
@@ -25,9 +25,9 @@
     ```
     5769018
     ```
-- - - 
 
-## 2. [🦍 **Who are the founders of Lemonade, Inc?**](#🦍-who-are-the-founders-of-lemonade-incfounders) 
+
+## 2. [🦍 **The founders of Lemonade, Inc?**](#2-🦍-who-are-the-founders-of-lemonade-inc) 
 
 #### [***1. Daniel Schreiber, Co-Founder & CEO***](https://www.linkedin.com/in/danielaschreiber/)<img align="right" width="35" height="35" border="5" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_85,w_85,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/xn2w3v4kuvlzsl8pdfse">
 
@@ -108,7 +108,7 @@
     * Lemonade, Erie Insurance, American Family, Allstate, Assurant, Liberty Mutual, State Farm, Travelers, Geico and Progressive.
 
 
-## 5. <a name="5-👀-results"> [👀 **Results**]</a>
+## 5. [👀 **Results**](#5-👀-results)
 
 * What has been the business impact of Lemonade, inc. so far?
 
