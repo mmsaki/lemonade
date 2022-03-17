@@ -143,9 +143,9 @@ greater resources, additional access to capital and more types of insurance cove
 
 
 ## 5. 👀 **Results**
-
 * What has been the business impact of Lemonade, inc. so far?
     * Giving Back <a name="1">[1]</a>
+<div align="center">
 
 | Giveback Year	| Number of Nonprofit Organizations	| Amount |
 | :-: | :-: | :-: |
@@ -155,17 +155,21 @@ greater resources, additional access to capital and more types of insurance cove
 |2017|	14	|$53,174 |
 <br>
 
+</div>
+
 * What are some of the core metrics that companies in this domain use to measure success? How is Lemonade, inc. performing, based on these metrics?
 
 1.  Stocks. Lemonade has seen a growth in stock value since it's listing. <a name="1">[1]</a>
+<div align="center">
 
 | |July 2, 2020|	December 31, 2020|	December 31, 2021|	
 | :-: | :-: | :-: |:-: |
 |Lemonade, Inc.	|$100.00	|$422.41|	$145.21|	
 |Nasdaq Composite Index	|$100.00|	$123.78	|$153.27	|
 |Nasdaq Insurance Index	|$100.00|	$123.27	|$140.90 |
-
+</div>
 2.  Taxes. The components of the net deferred tax assets are as follows ($ in millions): <a name="1">[1]</a>
+<div align="center">
 
 | |2021	| 	2020|	
 | :-: | :-: | :-: |
@@ -186,12 +190,15 @@ greater resources, additional access to capital and more types of insurance cove
 |Total gross deferred tax liabilities|	(6.8)		|	(1.7)|						
 |Valuation allowance	|(139.0)		|	(106.9)		|
 |Total deferred tax assets, net|	$	— 			|$	— 	 |
+</div>
 
 * How is Lemonade, inc.  performing relative to competitors in the same domain?
     * Users are switching from other insurers: <a name="15">[15]</a>
-    ![switching-to-lemonade-metrics](/making-the-switch.png)
-     * [Lemonade](https://www.lemonade.com/), [Erie Insurance](https://www.erieinsurance.com), and [American Family](https://www.amfam.com) insurance are regional carriers that offers auto, homeowners, life, renter, and pet insurance. 
-     While Lemonade, inc. doesn't rank for auto, homeowners, and life insurance, it's No.1 in renters insurance customer satisfaction. Lemonade also offers affordable pet insurance policies with discounts and short waiting periods. <a name="10">[10]</a>
+
+![switching-to-lemonade-metrics](/making-the-switch.png)
+
+ * [Lemonade](https://www.lemonade.com/), [Erie Insurance](https://www.erieinsurance.com), and [American Family](https://www.amfam.com) insurance are regional carriers that offers auto, homeowners, life, renter, and pet insurance. 
+ While Lemonade, inc. doesn't rank for auto, homeowners, and life insurance, it's No.1 in renters insurance customer satisfaction. Lemonade also offers affordable pet insurance policies with discounts and short waiting periods. <a name="10">[10]</a>
 
 
 ## 6. 🗣️ **Recommendations**
@@ -199,6 +206,8 @@ greater resources, additional access to capital and more types of insurance cove
 * If you were to advise Lemonade, Inc., what products or services would you suggest they offer?  
     * Lemonade's auto insurance is only available in Illinois. They should expand their auto insurance statewide to boost and scale up their coverage :rocket:. <a name="11">[11]</a> 
         * This is the difference between the various auto insurance coverage types: <a name="6">[6]</a>
+
+<div align="center">
 
 | Damage | Comprehensive | Collision | Liability | Full |
 | -: | :- | :- |:- | :- |
@@ -214,6 +223,8 @@ greater resources, additional access to capital and more types of insurance cove
 |Physical damage|	No|	No|	Yes|	Yes|
 |Property damage|	No|	No|	Yes	|Yes|
 |Uninsured motorist	| No	|No	|Yes| yes |
+</div>
+
 * Why do you think that offering this product or service would benefit Lemonade, Inc?
     * About 90% of Lemonade's current customers said that they were not switching to Lemonade from another carrier. 
     Lemonade are well positioned to grow their customer base by continuing to attract first time buyers, an underserved population.
