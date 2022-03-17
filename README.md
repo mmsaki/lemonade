@@ -195,15 +195,15 @@ greater resources, additional access to capital and more types of insurance cove
 
 ![switching-to-lemonade-metrics](/making-the-switch.png)
 
- * [Lemonade](https://www.lemonade.com/), [Erie Insurance](https://www.erieinsurance.com), and [American Family](https://www.amfam.com) insurance are regional carriers that offers auto, homeowners, life, renter, and pet insurance. 
- While Lemonade, inc. doesn't rank for auto, homeowners, and life insurance, it's No.1 in renters insurance customer satisfaction. Lemonade also offers affordable pet insurance policies with discounts and short waiting periods. <a name="10">[10]</a>
+ * [Lemonade](https://www.lemonade.com/), [Erie Insurance](https://www.erieinsurance.com), and [American Family](https://www.amfam.com) insurance are regional carriers that offers auto, homeowners, life, renter, and pet insurance. <a name="10">[10]</a>
+ While Lemonade, inc. doesn't rank for auto, homeowners, and life insurance, it's No.1 in renters insurance customer satisfaction. Lemonade also offers affordable pet insurance policies with discounts and short waiting periods. <a name="9">[9]</a>
 
 
 ## 6. 🗣️ **Recommendations**
 
 * If you were to advise Lemonade, Inc., what products or services would you suggest they offer?  
     * Lemonade's auto insurance is only available in Illinois. They should expand their auto insurance statewide to boost and scale up their coverage :rocket:. <a name="11">[11]</a> 
-        * This is the difference between the various auto insurance coverage types: <a name="6">[6]</a>
+        * This is the difference between the various auto insurance coverage types: <a name="10">[10]</a>
 
 <div align="center">
 
