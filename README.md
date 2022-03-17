@@ -34,13 +34,14 @@
     5769018
     ```
 
+![Comany Structure](/lemonade%20company%20structure.png)
 
 ## 2. 🦍 **The founders of Lemonade, Inc?**
 
 #### [***1. Daniel Schreiber, Co-Founder & CEO***](https://www.linkedin.com/in/danielaschreiber/)<img align="right" width="35" height="35" border="5" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_85,w_85,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/xn2w3v4kuvlzsl8pdfse">
-
+> Daniel Schreiber has served as our Co-Founder, Co-Chief Executive Officer, and Chairman of our board of directors since our founding in June 2015. Prior to co-founding Lemonade in 2015, Mr. Schreiber served as President and a member of the board of directors of Powermat Technologies Ltd., a wireless charging solutions and technology company, from 2011 to 2015. From 2003 to 2011, he served as Senior Vice President of Marketing and Vice President of Marketing and Business Development at SanDisk and M-Systems (which was acquired by SanDisk in 2006), respectively. In 1997, Mr. Schreiber co-founded and acted as the Chief Executive Officer of Alchemedia Inc., an internet security software company acquired by Finjan Software in 2002. Prior to that, Mr. Schreiber practiced corporate commercial law at Herzog, Fox & Neeman, and was a member of the Israeli Bar Association. He holds a Bachelor of Laws with First Class Honors from King’s College London. We believe Mr. Schreiber is qualified to serve on our board of directors due to his perspective and experience from serving as a Co-Founder and Chief Executive Officer, as well as his experience leading technology companies.
 #### <br> [***2. Shai Wininger, Co-Founder, Co-CEO***](https://www.linkedin.com/in/shaiwininger/)<img align="right" width="35" height="35" border="5" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_85,w_85,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/v1498531854/h8veixxdkleqtn6bje9f.png">
-
+> Shai Wininger has served in various roles, including as our Co-Founder, Secretary, Treasurer, and Chief Technology Officer, since our founding in June 2015. Mr. Wininger has served as our Co-Chief Executive Officer since July 2021, and is a member of our board of directors. Prior to co-founding Lemonade in 2015, Mr. Wininger founded Fiverr Ltd. in 2009, and as the Chief Technology Officer, managed the engineering, design, and product departments. Prior to 2010, Mr. Wininger served in senior management capacities for companies including: from 2005 to 2010, Mobideo Aerospace, an industrial grade analytics and control platform; from 2003 to 2005, Handsmart Software, a mobile licensing platform for content driven, mobile apps; and from 1999 to 2003, Trimus Inc., a virtual reality web browser. Mr. Wininger also served as a resident faculty member of Computer Graphics at The Neri Bloomfield Academy of Design and Education from 2002 to 2007 in Haifa, Israel. We believe Mr. Wininger is qualified to serve on our board of directors due to his visionary perspective, technical acumen, and experience in founding and leading technology companies.
 <br>
 <br>
 
@@ -66,8 +67,11 @@
      If there’s money left over, it goes directly to a social cause chosen by each customer. 
      This changes the nature of their relationship with their policyholders and builds trust. 
         * As a tech company doing insurance, Lemonade is constantly updating and expanding our products. Since the launch in 2015, they expanded and built a variety of packages and offerings in what they consider one of the most customizable options for pet owners. Whether it’s their preventative care package designed specifically for puppies and kittens, or their physical therapy add-on to support those that need a little extra care, various options are available so customers can have pet health insurance that is personalized to their needs.
-* Who is the Lemonade's intended customer?  Is there any information about the market size of this set of customers?
-    * Life insurance, Pets insurance, Car insurance, Renter's and Home Owners insurance. 
+* Who is the Lemonade's intended customer?  Is there any information about the market size of this set of customers? 
+    *   In the United States, as of December 31, 2021, Lemonade Insurance Company is licensed to operate in New York (its domiciliary state), Alabama, Arizona, Arkansas, California, Colorado, Connecticut, Washington, D.C., Florida, Georgia, Hawaii, Illinois, Iowa, Indiana, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, Tennessee, Texas, Utah, Virginia, Washington, and Wisconsin.
+        * <a name="12">[12]</a> They also currently hold a pan-European license, which enables us to sell in 31 countries across Europe, and commenced operating in Germany in 2019, and in the Netherlands and France in 2020.
+        * When we launched in late 2016, our licenses covered approximately 20 million people, compared to approximately 825 million people as of December 31, 2021.
+
 * What solution does Lemonade offer that their competitors do not or cannot offer?
     -  🦾 AI Technologies. Lemonade is a full stack insurance company offering homeowners + renters insurance powered by AI, behavioral economics, and social good. <a name="5">[5]</a> 
         * **Maya**, *the sign-up bot*, is available 24/7 and can have the average new customer signed up in under a minute. 
@@ -77,13 +81,29 @@
         * **CX.AI** is a bot platform built to understand and instantly resolve customer requests without human intervention. About 30% of all customer inquiries are currently handled this way. Customers often require assistance pre- or post-purchase, ranging from coverage questions to making changes to their policy, such as adding a spouse, updating coverage amounts, changing payment methods, or adding newly purchased items. 
         CX.AI uses Natural Language Processing to analyze and understand customers' requests, helping them perform a growing set of tasks. <a name="1">[1]</a>
 * Which technologies are they currently using, and how are they implementing them? 
-     * <a name="12">[12]</a> 
+     * **Forensic Graph**
+        * Forensic Graph utilizes the combined power of behavioral economics, big data, and AI to predict, deter, detect, and block fraud throughout the customer engagement. The FBI estimates that insurance fraud in the United States (excluding health insurance fraud) costs more than $40 billion per year, or $400 to $700 per family, in increased premiums. It is a complicated problem to solve for traditional insurers, mostly due to data paucity. Forensic Graph tracks untold signals and analyzes relationships between things which may appear trivial or invisible to humans, but in which our machine learning uncovers complex multivariate links that have helped us avoid millions of dollars' worth of potential losses.
+     * **Blender**
+        * Blender is a robust insurance management platform that we built with customer centricity and exponential efficiency in mind. This is a built-from-scratch, cutting edge backend system, designed as a single, cohesive, and streamlined management tool for our customer experience, underwriting, claims, growth, marketing, finance, and risk teams. When a claims experience specialist logs in to Blender, for example, they instantly see all claims assigned to them by AI Jim. Blender then provides them with instructions for next steps, and when possible, includes coverage determinations, and alerts of suspicious activity. Critically, they will also see an extraordinary amount of information about the users' behavior patterns and their claim, background information, risk indicators, insurance history, and much more. If a vendor is needed, for example, to assess the damage, all appropriate suppliers will pop up in Blender, and can be dispatched to the field, and paid, at the push of a button. Blender brings similar integrated, customer-centric, and focused workflows to the other Lemonade teams as well.
+    * **Cooper**
+       * Cooper is our internal bot (we like to think of him as our own Jarvis) who runs important parts of our company. Cooper handles complex as well as repetitive tasks, from helping our customer experience team handle lengthy, manual processes such as processing paper checks, to automatically running tens of thousands of tests on each release of our software. Cooper continuously analyzes spectrometry imaging beamed from NASA's satellites, identifying wildfires in real time and blocking ads and sales in the affected areas; Cooper collates and formats materials for our regulatory filings; and he even handles most of our engineering task allocation, code deployment, Q&A, and more. Cooper makes our team dramatically more efficient and keeps evolving and learning with time.
+     * <a name="12">[12]</a> *Other Technologies used:*
      ![Technolgies](/technologies%20used.png)
 
 ## 4. 🏂 **Landscape**
 
 * What domain of the financial industry is Lemonade in?
-    * InsurTech
+    * InsurTech. 
+        * <a name="1">[1]</a> The homeowners, pet, car and, to a lesser extent, the renters insurance industries in which we operate are highly competitive. 
+While we believe we are well positioned to execute our business model and reinvent insurance, we face significant competition from traditional insurance companies such as 
+Allstate, Farmers, Liberty Mutual, State Farm, GEICO, Progressive and Travelers. 
+Although we are tapping into markets that our competitors have struggled to reach, the incumbent insurance companies are larger than us and have significant competitive advantages over us, including increased name recognition, higher financial ratings, 
+greater resources, additional access to capital and more types of insurance coverage to offer, such as auto, health and life insurance, than we currently do. 
+In particular, unlike us, many of these competitors offer consumers the ability to purchase homeowners and multiple other types of insurance products and "bundle" them together, in certain circumstances, 
+include an umbrella liability policy for additional coverage at competitive prices. 
+Moreover, as we expand into new lines of business and offer additional products beyond renters and homeowners insurance, pet and car insurance, we face intense competition from traditional insurance companies that are already established in such markets. 
+Competitors in the pet insurance space include companies such as Nationwide, Embrace, and Trupanion. 
+Competitors in the car insurance space include companies such as Progressive, GEICO and Allstate. 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
     * **ROLE OF THE ACTUARY**
         * <a name="13">[13]</a> 
@@ -120,12 +140,49 @@
 
 * What has been the business impact of Lemonade, inc. so far?
 
-    *  Lemonade, inc. offers auto, homeowners, renters, pet, and life insurance. 
-    It's been around since 2015 and is known for offering some of the lowest rates. <a name="9">[9]</a>
-    ![flat fee](/Lemonade%20Prices.jpg)
+| |July 2, 2020|	December 31, 2020|	December 31, 2021|	
+| :-: | :-: | :-: |:-: |
+|Lemonade, Inc.	|$100.00	|$422.41|	$145.21|	
+|Nasdaq Composite Index	|$100.00|	$123.78	|$153.27	|
+|Nasdaq Insurance Index	|$100.00|	$123.27	|$140.90 |
+
+
+| Giveback Year	| Number of Nonprofit Organizations	| Amount |
+| :-: | :-: | :-: |
+|2021|	65	|$1,128,109 |		
+|2019|	26	|$631,540 |	
+|2018|	15	|$162,135 |		
+|2017|	14	|$53,174 |
+<br>
+
 * What are some of the core metrics that companies in this domain use to measure success? How is Lemonade, inc. performing, based on these metrics?
-    ![switching-to-lemonade-metrics](/making-the-switch.png)
+
+    * **Defered Taxes**
+
+		
+| |2021	| 	2020|	
+| :-: | :-: | :-: |
+|Deferred tax assets:	 |	| |	 	
+|Net operating loss carryforwards|	$	127.4| 			$	92.7| 		
+|Deferred ceding commission|	7.8| 			4.8| 		
+|Lease liabilities	|3.4 	|		— 		|
+|Net unearned premium	|2.6| 			1.4 	|	
+|Stock-based compensation|	2.4 |			3.8 |		
+|Charitable contribution|	0.9| 			4.7 |		
+|Startup costs	|0.7 	|		0.9 		|
+|Other	|0.6 			|0.3 		|
+|Total gross deferred tax assets|	145.8| 			108.6 		|				
+|Deferred tax liabilities:|				| |
+|Right-of-use assets	|(3.3)	|		— |		
+|Depreciation and amortization|	(2.2)		|	(0.9)|		
+|Deferred acquisition costs	|(1.3)	|		(0.8)	|	
+|Total gross deferred tax liabilities|	(6.8)		|	(1.7)|						
+|Valuation allowance	|(139.0)		|	(106.9)		|
+|Total deferred tax assets, net|	$	— 			|$	— 	 |
+
 * How is Lemonade, inc.  performing relative to competitors in the same domain?
+    * Users are switching from other insurers:
+    ![switching-to-lemonade-metrics](/making-the-switch.png)
      * [Lemonade](https://www.lemonade.com/), [Erie Insurance](https://www.erieinsurance.com), and [American Family](https://www.amfam.com) insurance are regional carriers that offers auto, homeowners, life, renter, and pet insurance. 
      While Lemonade, inc. doesn't rank for auto, homeowners, and life insurance, it's No.1 in renters insurance customer satisfaction. Lemonade also offers affordable pet insurance policies with discounts and short waiting periods. <a name="10">[10]</a>
 
@@ -133,8 +190,8 @@
 ## 6. 🗣️ **Recommendations**
 
 * If you were to advise Lemonade, Inc., what products or services would you suggest they offer?  
-    * <a name="11">[11]</a> Lemonade's auto insurance is only available in Illinois. They should expand their auto insurance statewide to scale up their coverage.
-        * The difference between the various coverage types is outlined in the table below: <a name="6">[6]</a>
+    * <a name="11">[11]</a> Lemonade's auto insurance is only available in Illinois. They should expand their auto insurance statewide to boost and scale up their coverage :rocket:.
+        * This is the difference between the various auto insurance coverage types: <a name="6">[6]</a>
 
 | Damage | Comprehensive | Collision | Liability | Full |
 | -: | :- | :- |:- | :- |
@@ -151,11 +208,13 @@
 |Property damage|	No|	No|	Yes	|Yes|
 |Uninsured motorist	| No	|No	|Yes| yes |
 * Why do you think that offering this product or service would benefit Lemonade, Inc?
-    * It will exponentially boost Lemonade's growth as a nathional and global insurance competitor.
+    * About 90% of our current customers said that they were not switching to Lemonade from another carrier. 
+    Lemonade are well positioned to grow their customer base by continuing to attract first time buyers, an underserved population.
+    This will exponentially boost Lemonade's growth as a nathional and global insurance competitor. Their covarage is highly attractive to new customers and those wanting to switch to a new provider.
 * What technologies would this additional product or service utilize?
-    * Artificial intelligence
+    * *Customer Cortex, Forensic Graph, Blender, and Cooper, together with AI Maya, AI Jim,* and CX.AI atop.
 * Why are these technologies appropriate for your solution?
-    * Ai has worked for Lemonade, inc. it is exected to grow even more as this allows Lemonade to offer affordable insuarance.
+    * Artificial inteligence has been working for Lemonade, inc. I am predicting Lemonade will continue to offer even more affordable insuarance using these technologies.
 
 --- 
 ## 7. 📚 **Sources** 
@@ -172,3 +231,4 @@
 <br>[https://www.dig-in.com/news/lemonade-car-insurance-launches](https://www.businesswire.com/news/home/20211103005308/en/Lemonade-Car-Launches%21)<sup>[11](#11)</sup>
 <br>[Lemonade on Stackshare](https://stackshare.io/lemonade/lemonade)<sup>[12](#12)</sup>
 <br>[Society of Actuaries Research Institute InsureTech Connect 2021](https://www.soa.org/globalassets/assets/files/resources/research-report/2021/2021-insuretech-connect.pdf)<sup>[13](#13)</sup>
+<br>[https://coverager.com/lemonades-s-4-background-surrounding-the-metromile-acquisition/](https://coverager.com/lemonades-s-4-background-surrounding-the-metromile-acquisition/) <sub>[14](#14)</sub>
