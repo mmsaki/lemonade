@@ -1,5 +1,5 @@
 <div align="center">
- <h1> Lemonade, Inc. Case Study 🦉 </h1>
+ <h1> <strong> Lemonade, Inc. Case-Snathtudy 🦉 </h1>
 
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fres.cloudinary.com%2Fvalue-penguin%2Fimage%2Fupload%2Fc_lfill%2Fdpr_1.0%2Ff_auto%2Fh_800%2Fq_auto%2Fw_800%2Fv1%2Freferral_logos%2Fus%2Finsurance%2Flemonade-1&f=1&nofb=1" width="200" height="115">
 
@@ -226,7 +226,7 @@ greater resources, additional access to capital and more types of insurance cove
 * Why do you think that offering this product or service would benefit Lemonade, Inc?
     * About 90% of Lemonade's current customers said that they were not switching to Lemonade from another carrier. 
     Lemonade are well positioned to grow their customer base by continuing to attract first time buyers, an underserved population.
-    This will exponentially boost Lemonade's growth as a nathional and global insurance competitor. Their covarage is highly attractive to new customers and those wanting to switch to a new provider. <a name="1">[1]</a>
+    This will exponentially boost Lemonade's growth as a national and global insurance competitor. Their covarage is highly attractive to new customers and those wanting to switch to a new provider. <a name="1">[1]</a>
 * What technologies would this additional product or service utilize?
     * *Customer Cortex, Forensic Graph, Blender, and Cooper, together with AI Maya, AI Jim,* and CX.AI atop. <a name="1">[1]</a>
 * Why are these technologies appropriate for your solution?
