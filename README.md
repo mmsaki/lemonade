@@ -231,7 +231,7 @@ greater resources, additional access to capital and more types of insurance cove
     * *Customer Cortex, Forensic Graph, Blender, and Cooper, together with AI Maya, AI Jim,* and CX.AI atop. <a name="1">[1]</a>
 * Why are these technologies appropriate for your solution?
     * Artificial inteligence has been working for Lemonade, inc. I am predicting Lemonade will continue to offer even more affordable insuarance using these technologies.
-    	* While Lemonade is a legitimate insurance provider, it's important to do your own research to ensure that Lemonade is the right insurance company for you. 
+    	* While Lemonade is a legitimate insurance provider, it's important to do your own research to ensure that Lemonade is the right insurance company for you. <a name="6">[6]</a>
 
 --- 
 ## 7. 📚 **Sources** 
