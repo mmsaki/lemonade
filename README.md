@@ -247,4 +247,4 @@ Competitors in the car insurance space include companies such as Progressive, GE
 <br>[https://www.dig-in.com/news/lemonade-car-insurance-launches](https://www.businesswire.com/news/home/20211103005308/en/Lemonade-Car-Launches%21)<sup>[11](#11)</sup>
 <br>[Lemonade on Stackshare](https://stackshare.io/lemonade/lemonade)<sup>[12](#12)</sup>
 <br>[Society of Actuaries Research Institute InsureTech Connect 2021](https://www.soa.org/globalassets/assets/files/resources/research-report/2021/2021-insuretech-connect.pdf)<sup>[13](#13)</sup>
-<br>[https://coverager.com/lemonades-s-4-background-surrounding-the-metromile-acquisition/](https://coverager.com/lemonades-s-4-background-surrounding-the-metromile-acquisition) <sub>[14](#14)</sub>
+<br>[Lemonade’s S-4: Background surrounding the Metromile acquisition](https://coverager.com/lemonades-s-4-background-surrounding-the-metromile-acquisition)<sub>[14](#14)</sub>
