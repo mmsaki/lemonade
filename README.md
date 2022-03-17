@@ -51,7 +51,7 @@
     <a name="4">[4]</a> Schreiber did not know much about insurance.
      He met this problem head on by pouring its funds, talents and behavioural science expertise into developing world-class chatbots that completely shatter category norms.
 
-> <a name="3">*[3]*</a> *It’s not a natural thing for a tech entrepreneur to want to go into insurance, it connotes all the wrong things. It’s perceived as being dull, as being retro-grade, heavily regulated, heavily capital intensive but myself and my co-founder Shai Wininger were a little contrarian when it comes to that. The very fact that it was so off pudding made it kind of interesting. - Daniel Schreiber during interview with David Gogel.* 
+> <a name="3">*[3]*</a> *It’s not a natural thing for a tech entrepreneur to want to go into insurance, it connotes all the wrong things. It’s perceived as being dull, as being retro-grade, heavily regulated, heavily capital intensive but myself and my co-founder Shai Wininger were a little contrarian when it comes to that. The very fact that it was so off pudding made it kind of interesting.* 
 
 
 
