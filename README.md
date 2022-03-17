@@ -9,7 +9,7 @@
 3. [✍️ **Business Activities**](/README.md#3-%EF%B8%8F-business-activities)
 4. [🏂 **Landscape**](/README.md#4--landscape)
 5. [👀 **Results**](/README.md#5--results)
-6. [🗣️ **Recommendations**](README.md#6-🗣️-recommendations)
+6. [🗣️ **Recommendations**](README.md#6-%EF%B8%8F-recommendations)
 7. [📚 **Sources**](/README.md#7--sources)
 - - -  
 ## 1. 👋 **Introduction**
