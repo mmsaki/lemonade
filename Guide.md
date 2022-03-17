@@ -5,4 +5,4 @@
 4. [🏂 **Landscape**](/README.md#4-🏂-landscape)
 5. [👀 **Results**](/README.md#5-👀-results)
 6. [🗣️ **Recommendations**](README.md#6-🗣️-recommendations)
-7. [📚 **Sources**](/README.md#7-📚-sources📚-sources) 
+7. [📚 **Sources**](/README.md#7-📚-sources) 
