@@ -1,4 +1,4 @@
-# [Lemonade, Inc. Case-Study Outline](/README.md)
+# [Case-Study Outline](/README.md)
 1. [👋 **Introduction**](/README.md#1-👋-introduction)
 2. [🦍 **Who are the founders of Lemonade, Inc?**](/README.md#2-🦍-the-founders-of-lemonade-inc) 
 3. [✍️ **Business Activities**](/README.md#3-✍️-business-activities)
