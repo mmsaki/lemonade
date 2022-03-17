@@ -4,15 +4,15 @@
 [![Lemonade Comercial](http://img.youtube.com/vi/3Eu-uVceivY/0.jpg)](https://youtu.be/3Eu-uVceivY)
 
 # Case Study Outline
-1. [👋 **Introduction**](#1-👋-introduction)
-2. [🦍 **Who are the founders of Lemonade, Inc?**](#2-🦍-the-founders-of-lemonade-inc) 
-3. [✍️ **Business Activities**](#3-✍️-business-activities)
-4. [🏂 **Landscape**](#4-🏂-landscape)
-5. [👀 **Results**](#5-👀-results)
-6. [🗣️ **Recommendations**](#6-🗣️-recommendations)
-7. [📚 **Sources**](#7-📚-sources)
+1. [👋 **Introduction**](/README.md#1--introduction)
+2. [🦍 **Who are the founders of Lemonade, Inc?**](/README.md#2--the-founders-of-lemonade-inc) 
+3. [✍️ **Business Activities**](/README.md#3-%EF%B8%8F-business-activities)
+4. [🏂 **Landscape**](/README.md#4--landscape)
+5. [👀 **Results**](/README.md#5--results)
+6. [🗣️ **Recommendations**](README.md#6-%EF%B8%8F-recommendationss)
+7. [📚 **Sources**](/README.md#7--sources)
 - - -  
-## 1. [👋 **Introduction**](#👋-introduction)
+## 1. 👋 **Introduction**
 
 * Name of company:
     * [Lemonade, Inc](https://www.lemonade.com) 
@@ -27,7 +27,7 @@
     ```
 
 
-## 2. [🦍 **The founders of Lemonade, Inc?**](#2-🦍-who-are-the-founders-of-lemonade-inc) 
+## 2. 🦍 **The founders of Lemonade, Inc?**
 
 #### [***1. Daniel Schreiber, Co-Founder & CEO***](https://www.linkedin.com/in/danielaschreiber/)<img align="right" width="35" height="35" border="5" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_85,w_85,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/xn2w3v4kuvlzsl8pdfse">
 
@@ -49,7 +49,7 @@
 * How is Lemonade, Inc funded and How much funding have they received?
     * Lemonade has raised a total of $481.5M in funding over 14 rounds. Their latest funding was raised on Jul 2, 2020 from a Post-IPO Equity round. <a name="2">[2]</a>
 
-## 3. [✍️ **Business Activities**](#✍️-business-activities)
+## 3. ✍️ **Business Activities**
 * What specific financial problem is Lemonade, Inc trying to solve? 
     * <a name="8">[8]</a> Traditional insurance companies simply make a profit by denying claims, they earn more money. 
     Lemonade aims to transform the insurance industry by taking a different approach. 
@@ -72,7 +72,7 @@
      * <a name="12">[12]</a> 
      ![Technolgies](/technologies%20used.png)
 
-## 4. [🏂 **Landscape**](#🏂-landscape)
+## 4. 🏂 **Landscape**
 
 * What domain of the financial industry is Lemonade in?
     * InsurTech
@@ -108,7 +108,7 @@
     * Lemonade, Erie Insurance, American Family, Allstate, Assurant, Liberty Mutual, State Farm, Travelers, Geico and Progressive.
 
 
-## 5. [👀 **Results**](#5-👀-results)
+## 5. 👀 **Results**
 
 * What has been the business impact of Lemonade, inc. so far?
 
@@ -122,7 +122,7 @@
      While Lemonade, inc. doesn't rank for auto, homeowners, and life insurance, it's No.1 in renters insurance customer satisfaction. Lemonade also offers affordable pet insurance policies with discounts and short waiting periods. <a name="10">[10]</a>
 
 
-## 6. [🗣️ **Recommendations**](#🗣️-recommendations)
+## 6. 🗣️ **Recommendations**
 
 * If you were to advise Lemonade, Inc., what products or services would you suggest they offer?  
     * <a name="11">[11]</a> Lemonade's auto insurance is only available in Illinois. They should expand their auto insurance statewide to scale up their coverage.
@@ -150,7 +150,7 @@
     * Ai has worked for Lemonade, inc. it is exected to grow even more as this allows Lemonade to offer affordable insuarance.
 
 --- 
-## 7. [📚 **Sources**](#📚-sources) 
+## 7. 📚 **Sources** 
 <br>[Sec Lemonade, Inc 10k 2021](https://www.sec.gov/Archives/edgar/data/0001691421/000169142122000015/lmnd-20211231.htm) <sup>[1](#1)</sup>
 <br>[Lemonade, Inc. Crunchbase Funding rounds](https://www.crunchbase.com/organization/lemonade) <sup>[2](#2)</sup>
 <br>[Interview with Daniel Schreiber, CEO and Co-Founder of Lemonade, Inc.](https://medium.com/wharton-fintech/interview-with-daniel-schreiber-ceo-and-co-founder-of-lemonade-1a6aef384e2f) <sup>[3](#3)</sup>
