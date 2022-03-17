@@ -165,7 +165,7 @@ greater resources, additional access to capital and more types of insurance cove
 |Nasdaq Composite Index	|$100.00|	$123.78	|$153.27	|
 |Nasdaq Insurance Index	|$100.00|	$123.27	|$140.90 |
 
-2.  Taxes. The components of the net deferred tax assets are as follows ($ in millions):
+2.  Taxes. The components of the net deferred tax assets are as follows ($ in millions): <a name="1">[1]</a>
 
 | |2021	| 	2020|	
 | :-: | :-: | :-: |
