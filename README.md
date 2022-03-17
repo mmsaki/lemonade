@@ -7,7 +7,7 @@
 
 </div>
 
-<h1 align="center"> Case Study Outline </h1>
+<h1 align="center"> Table of Contents </h1>
 
 
 1. [👋 **Introduction**](/README.md#1--introduction)
