@@ -1,10 +1,10 @@
 # Lemonade, Inc. Case Study 
-<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fres.cloudinary.com%2Fvalue-penguin%2Fimage%2Fupload%2Fc_lfill%2Fdpr_1.0%2Ff_auto%2Fh_800%2Fq_auto%2Fw_800%2Fv1%2Freferral_logos%2Fus%2Finsurance%2Flemonade-1&f=1&nofb=1" width="400" height="230">
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fres.cloudinary.com%2Fvalue-penguin%2Fimage%2Fupload%2Fc_lfill%2Fdpr_1.0%2Ff_auto%2Fh_800%2Fq_auto%2Fw_800%2Fv1%2Freferral_logos%2Fus%2Finsurance%2Flemonade-1&f=1&nofb=1" width="200" height="115">
 
-#  [👋 **Introduction**](#👋-introduction)
+## 1. [👋 **Introduction**](#👋-introduction)
 
 * Name of company:
-    * [Lemonade, Inc](https://www.lemonade.com) <a name="1">[1]</a>
+    * [Lemonade, Inc](https://www.lemonade.com) 
 * When was Lemonade, Inc. incorporated?
     * April 20th 2007 [File Number:](https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx) 
     ```
@@ -16,7 +16,7 @@
     ```
 - - - 
 
-## [🦍 **Who are the founders of Lemonade, Inc?**](#🦍-who-are-the-founders-of-lemonade-incfounders) 
+## 2. [🦍 **Who are the founders of Lemonade, Inc?**](#🦍-who-are-the-founders-of-lemonade-incfounders) 
 
 #### [***1. Daniel Schreiber, Co-Founder & CEO***](https://www.linkedin.com/in/danielaschreiber/)<img align="right" width="35" height="35" border="5" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_85,w_85,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/xn2w3v4kuvlzsl8pdfse">
 
@@ -38,7 +38,7 @@
 * How is Lemonade, Inc funded and How much funding have they received?
     * Lemonade has raised a total of $481.5M in funding over 14 rounds. Their latest funding was raised on Jul 2, 2020 from a Post-IPO Equity round. <a name="2">[2]</a>
 
-## [✍️ **Business Activities**](#✍️-business-activities)
+## 3. [✍️ **Business Activities**](#✍️-business-activities)
 * What specific financial problem is Lemonade, Inc trying to solve? 
     * <a name="8">[8]</a> Traditional insurance companies simply make a profit by denying claims, they earn more money. 
     Lemonade aims to transform the insurance industry by taking a different approach. 
@@ -50,16 +50,18 @@
 * Who is the Lemonade's intended customer?  Is there any information about the market size of this set of customers?
     * Life insurance, Pets insurance, Car insurance, Renter's and Home Owners insurance. 
 * What solution does Lemonade offer that their competitors do not or cannot offer?
-    * <a name="7">[7]</a> 🦾 AI Technologies. 
-     **Maya**, *the sign-up bot*, is available 24/7 and can have the average new customer signed up in under a minute. 
-     **Jim**, *the claims bot*, makes Maya look slow, regularly settling claims in under three seconds. 
+    -  🦾 AI Technologies. Lemonade is a full stack insurance company offering homeowners + renters insurance powered by AI, behavioral economics, and social good. <a name="5">[5]</a> 
+        * **Maya**, *the sign-up bot*, is available 24/7 and can have the average new customer signed up in under a minute. 
+        * **Jim**, *the claims bot*, makes Maya look slow, regularly settling claims in under three seconds. 
      This includes cross referencing the claim against the relevant policy, running over a dozen anti-fraud algorithms, approving the claim, sending wiring instructions to the appropriate bank and notifying the customer of the good news. 
-     All in under three seconds.
-* Which technologies are they currently using, and how are they implementing them?
+     All in under three seconds. <a name="7">[7]</a>
+        * **CX.AI** is a bot platform built to understand and instantly resolve customer requests without human intervention. About 30% of all customer inquiries are currently handled this way. Customers often require assistance pre- or post-purchase, ranging from coverage questions to making changes to their policy, such as adding a spouse, updating coverage amounts, changing payment methods, or adding newly purchased items. 
+        CX.AI uses Natural Language Processing to analyze and understand customers' requests, helping them perform a growing set of tasks. <a name="1">[1]</a>
+* Which technologies are they currently using, and how are they implementing them? 
      * <a name="12">[12]</a> 
      ![Technolgies](/technologies%20used.png)
 
-## [🏂 **Landscape**](#🏂-landscape)
+## 4. [🏂 **Landscape**](#🏂-landscape)
 
 * What domain of the financial industry is Lemonade in?
     * InsurTech
@@ -95,7 +97,7 @@
     * Lemonade, Erie Insurance, American Family, Allstate, Assurant, Liberty Mutual, State Farm, Travelers, Geico and Progressive.
 
 
-## [👀 **Results**](#👀-results)
+## 5. [👀 **Results**](#👀-results)
 
 * What has been the business impact of Lemonade, inc. so far?
 
@@ -109,11 +111,11 @@
      While Lemonade, inc. doesn't rank for auto, homeowners, and life insurance, it's No.1 in renters insurance customer satisfaction. Lemonade also offers affordable pet insurance policies with discounts and short waiting periods. <a name="10">[10]</a>
 
 
-## [🗣️ **Recommendations**](#🗣️-recommendations)
+## 6. [🗣️ **Recommendations**](#🗣️-recommendations)
 
 * If you were to advise Lemonade, Inc., what products or services would you suggest they offer?  
     * <a name="11">[11]</a> Lemonade's auto insurance is only available in Illinois. They should expand their auto insurance statewide to scale up their coverage.
-        * The difference between the various coverage types is outlined in the table below: 
+        * The difference between the various coverage types is outlined in the table below: <a name="6">[6]</a>
 
 | Damage | Comprehensive | Collision | Liability | Full |
 | -: | :- | :- |:- | :- |
@@ -137,13 +139,13 @@
     * Ai has worked for Lemonade, inc. it is exected to grow even more as this allows Lemonade to offer affordable insuarance.
 
 --- 
-## [📚 Sources](#📚-sources) 
+## 7. [📚 **Sources**](#📚-sources) 
 <br>[Sec Lemonade, Inc 10k 2021](https://www.sec.gov/Archives/edgar/data/0001691421/000169142122000015/lmnd-20211231.htm) <sup>[1](#1)</sup>
 <br>[Lemonade, Inc. Crunchbase Funding rounds](https://www.crunchbase.com/organization/lemonade) <sup>[2](#2)</sup>
 <br>[Interview with Daniel Schreiber, CEO and Co-Founder of Lemonade, Inc.](https://medium.com/wharton-fintech/interview-with-daniel-schreiber-ceo-and-co-founder-of-lemonade-1a6aef384e2f) <sup>[3](#3)</sup>
 <br>[Meet Kevin Episode 24, CEO of Lemonade, Inc.](https://www.youtube.com/watch?v=-1qa7U62NxM) <sup>[4](#4)</sup>
 <br>[Lemonade, Inc. Open Source Policy on Github](https://github.com/lemonade-hq) <sup>[5](#5)</sup>
-<br>[insider](https://www.businessinsider.com/personal-finance/lemonade-insurance-review) <sup>[6](#6)</sup>
+<br>[Lemonade insurance review: Easy-to-use digital insurance provider with low rates](https://www.businessinsider.com/personal-finance/lemonade-insurance-review) <sup>[6](#6)</sup>
 <br>[The Lemonade effect: What every business can learn from this startup’s focus on scarcity](https://www.smartcompany.com.au/startupsmart/analysis/lemonade-focus-scarcity-startup/) <sup>[7](#7)</sup>
 <br>[Lemonade Q&A: Pet insurance, consumer education](https://www.dig-in.com/list/lemonade-pet-insurance-consumer-education) <sup>[8](#8)</sup>
 <br>[Home Insurers Struggle with Customer Loyalty as Boomers Flock to Rental Market, J.D. Power Finds](https://www.jdpower.com/business/press-releases/2021-us-home-insurance-study) <sup>[9](#9)</sup>
