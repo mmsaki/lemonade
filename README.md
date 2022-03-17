@@ -39,7 +39,7 @@
 ## 2. 🦍 **The founders of Lemonade, Inc?**
 
 #### [***1. Daniel Schreiber, Co-Founder & CEO***](https://www.linkedin.com/in/danielaschreiber/)<img align="right" width="35" height="35" border="5" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_85,w_85,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/xn2w3v4kuvlzsl8pdfse">
-> Daniel Schreiber has served as Co-Founder, 
+- Daniel Schreiber has served as Co-Founder, 
 Co-Chief Executive Officer, and Chairman of the board of directors since founding in June 2015. 
 Prior to co-founding Lemonade in 2015, Mr. Schreiber served as President and a member of the board of directors of Powermat Technologies Ltd., a wireless charging solutions and technology company, from 2011 to 2015. 
 From 2003 to 2011, he served as Senior Vice President of Marketing and Vice President of Marketing and Business Development at SanDisk and M-Systems (which was acquired by SanDisk in 2006), respectively. 
@@ -48,7 +48,7 @@ Prior to that, Mr. Schreiber practiced corporate commercial law at Herzog, Fox &
 He holds a **Bachelor of Laws with First Class Honors** from King’s College London. 
 Lemonade believes Mr. Schreiber is qualified to serve on the board of directors due to his perspective and experience from serving as a Co-Founder and Chief Executive Officer, as well as his experience leading technology companies. <a name="1">[1]</a>
 #### <br> [***2. Shai Wininger, Co-Founder, Co-CEO***](https://www.linkedin.com/in/shaiwininger/)<img align="right" width="35" height="35" border="5" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_85,w_85,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/v1498531854/h8veixxdkleqtn6bje9f.png">
-> Shai Wininger has served in various roles, including as Co-Founder, Secretary, Treasurer, and Chief Technology Officer, since founding in June 2015. 
+- Shai Wininger has served in various roles, including as Co-Founder, Secretary, Treasurer, and Chief Technology Officer, since founding in June 2015. 
 Mr. Wininger has served as Co-Chief Executive Officer since July 2021, and is a member of board of directors. 
 **Mr. Wininger founded Fiverr Ltd. in 2009**, and as the Chief Technology Officer, managed the engineering, design, and product departments. 
 Prior to 2010, Mr. Wininger served in senior management capacities for companies including: from 2005 to 2010, Mobideo Aerospace, an industrial grade analytics and control platform; from 2003 to 2005, Handsmart Software, a mobile licensing platform for content driven, mobile apps; and from 1999 to 2003, Trimus Inc., 
