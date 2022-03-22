@@ -25,10 +25,6 @@
 * Name of company:
     * [Lemonade, Inc](https://www.lemonade.com) <a name="15">[15]</a>
 * When was Lemonade, Inc. incorporated?
-    * April 20th 2007 [File Number:](https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx) 
-    ```
-    4338186
-    ```
     * June 17th 2015 [File Number:](https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx) 
     ```
     5769018
