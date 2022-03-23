@@ -52,6 +52,7 @@ a virtual reality web browser.
 Mr. Wininger also served as a resident faculty member of Computer Graphics at The Neri Bloomfield Academy of Design and Education from 2002 to 2007 in Haifa, Israel. 
 Lemonade believes Mr. Wininger is qualified to serve on board of directors due to his visionary perspective, technical acumen, and experience in founding and leading technology companies. <a name="1">[1]</a>
 <br>
+
 * How did the idea for the Lemonade, Inc come about?
     * Daniel Schreiber started Lemonade, inc. to improve the relationship between a customer and an insurance company which is often very cumbersome and slow. 
      Schreiber did not know much about insurance.
