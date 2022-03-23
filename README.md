@@ -52,13 +52,10 @@ a virtual reality web browser.
 Mr. Wininger also served as a resident faculty member of Computer Graphics at The Neri Bloomfield Academy of Design and Education from 2002 to 2007 in Haifa, Israel. 
 Lemonade believes Mr. Wininger is qualified to serve on board of directors due to his visionary perspective, technical acumen, and experience in founding and leading technology companies. <a name="1">[1]</a>
 <br>
-<br>
-
-
 * How did the idea for the Lemonade, Inc come about?
     * Daniel Schreiber started Lemonade, inc. to improve the relationship between a customer and an insurance company which is often very cumbersome and slow. 
      Schreiber did not know much about insurance.
-     He met this problem head on by pouring its funds, talents and behavioural science expertise into developing **world-class chatbots** that completely shatter category norms.<a name="4">[4]</a>
+     He met this problem head on by pouring funds, talents and behavioural science expertise into developing **world-class chatbots** that completely shatter category norms.<a name="4">[4]</a>
 
 > *It’s not a natural thing for a tech entrepreneur to want to go into insurance, it connotes all the wrong things. It’s perceived as being dull, as being retro-grade, heavily regulated, heavily capital intensive but myself and my co-founder Shai Wininger were a little contrarian when it comes to that. The very fact that it was so off pudding made it kind of interesting.* <a name="3">*[3]*</a>
 
