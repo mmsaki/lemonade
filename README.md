@@ -1,5 +1,5 @@
 <div align="center">
- <h1> <strong> Case-Study of Lemonade, Inc. 🦉 </strong> </h1>
+ <h1> <strong> Case-Study of Lemonade, Inc. 🦉</strong> </h1>
 
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fres.cloudinary.com%2Fvalue-penguin%2Fimage%2Fupload%2Fc_lfill%2Fdpr_1.0%2Ff_auto%2Fh_800%2Fq_auto%2Fw_800%2Fv1%2Freferral_logos%2Fus%2Finsurance%2Flemonade-1&f=1&nofb=1" width="200" height="115">
 
