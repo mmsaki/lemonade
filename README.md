@@ -10,17 +10,17 @@
 <h1 align="center"> Table of Contents </h1>
 
 
-1. [👋 **Introduction**](/README.md#1--introduction)
-2. [🦍 **Who are the founders of Lemonade, Inc?**](/README.md#2--the-founders-of-lemonade-inc) 
-3. [✍️ **Business Activities**](/README.md#3-%EF%B8%8F-business-activities)
-4. [🏂 **Landscape**](/README.md#4--landscape)
-5. [👀 **Results**](/README.md#5--results)
-6. [🗣️ **Recommendations**](README.md#6-%EF%B8%8F-recommendations)
-7. [📚 **Sources**](/README.md#7--sources)
+1. [**Introduction**](/README.md#1--introduction)
+2. [**Who are the founders of Lemonade, Inc?**](/README.md#2--the-founders-of-lemonade-inc) 
+3. [**Business Activities**](/README.md#-business-activities)
+4. [**Landscape**](/README.md#4--landscape)
+5. [**Results**](/README.md#5--results)
+6. [**Recommendations**](README.md#6-%EF%B8%8F-recommendations)
+7. [**Sources**](/README.md#7--sources)
 - - -  
 
 
-## 1. 👋 **Introduction** 
+## 1. **Introduction** 
 
 * Name of company:
     * [Lemonade, Inc](https://www.lemonade.com) <a name="15">[15]</a>
@@ -32,7 +32,7 @@
 
 ![Comany Structure](/lemonade%20company%20structure.png)
 
-## 2. 🦍 **The founders of Lemonade, Inc?**
+## 2. **The founders of Lemonade, Inc?**
 
 #### [***1. Daniel Schreiber, Co-Founder & CEO***](https://www.linkedin.com/in/danielaschreiber/)<img align="right" width="35" height="35" border="5" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_85,w_85,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/xn2w3v4kuvlzsl8pdfse">
 - Daniel Schreiber has served as Co-Founder, 
@@ -65,7 +65,7 @@ Lemonade believes Mr. Wininger is qualified to serve on board of directors due t
 * How is Lemonade, Inc funded and How much funding have they received?
     * Lemonade has raised a total of $481.5M in funding over 14 rounds. Their latest funding was raised on Jul 2, 2020 from a **Post-IPO Equity round.** <a name="2">[2]</a>
 
-## 3. ✍️ **Business Activities**
+## 3. **Business Activities**
 * What specific financial problem is Lemonade, Inc trying to solve? 
     * *Traditional insurance companies* simply make a profit by denying claims, they earn more money. 
     Lemonade aims to transform the insurance industry by taking a different approach. 
@@ -96,7 +96,7 @@ Lemonade believes Mr. Wininger is qualified to serve on board of directors due t
     * **Cooper**
        * Cooper is the internal bot (Lemonade likes to think of him as their Jarvis) who runs important parts of Lemonade. Cooper handles complex as well as repetitive tasks, from helping customer experience team handle lengthy, manual processes such as processing paper checks, to automatically running tens of thousands of tests on each release of their software. Cooper continuously analyzes spectrometry imaging beamed from **NASA's satellites**, identifying wildfires in real time and blocking ads and sales in the affected areas; Cooper collates and formats materials for regulatory filings; and he even handles most of the engineering task allocation, code deployment, Q&A, and more. Cooper makes the team dramatically more efficient and keeps evolving and learning with time.<a name="1">[1]</a>
      
-## 4. 🏂 **Landscape**
+## 4. **Landscape**
 
 * What domain of the financial industry is Lemonade in?
     * InsurTech. 
@@ -136,7 +136,7 @@ greater resources, additional access to capital and more types of insurance cove
     * **Lemonade**, Erie Insurance, American Family, Allstate, Assurant, Liberty Mutual, State Farm, Travelers, Geico and Progressive.
 
 
-## 5. 👀 **Results**
+## 5. **Results**
 * What has been the business impact of Lemonade, inc. so far?
     * Giving Back <a name="1">[1]</a>
 <div align="center">
@@ -193,7 +193,7 @@ greater resources, additional access to capital and more types of insurance cove
  While Lemonade, inc. doesn't rank for auto, homeowners, and life insurance, it's No.1 in renters insurance customer satisfaction. Lemonade also offers affordable pet insurance policies with discounts and short waiting periods. <a name="9">[9]</a>
 
 
-## 6. 🗣️ **Recommendations**
+## 6. **Recommendations**
 
 * If you were to advise Lemonade, Inc., what products or services would you suggest they offer?  
     * Lemonade's auto insurance is only available in Illinois. They should expand their auto insurance statewide to boost and scale up their coverage :rocket:. <a name="11">[11]</a> 
@@ -228,7 +228,7 @@ greater resources, additional access to capital and more types of insurance cove
     	* While Lemonade is a legitimate insurance provider, it's important to do your own research to ensure that Lemonade is the right insurance company for you. <a name="6">[6]</a>
 
 --- 
-## 7. 📚 **Sources** 
+## 7. **Sources** 
 1. [Sec Lemonade, Inc 10k 2021](https://www.sec.gov/Archives/edgar/data/0001691421/000169142122000015/lmnd-20211231.htm) <sup>[1](#1)</sup>
 2. [Lemonade, Inc. Crunchbase Funding rounds](https://www.crunchbase.com/organization/lemonade) <sup>[2](#2)</sup>
 3. [Interview with Daniel Schreiber, CEO and Co-Founder of Lemonade, Inc.](https://medium.com/wharton-fintech/interview-with-daniel-schreiber-ceo-and-co-founder-of-lemonade-1a6aef384e2f) <sup>[3](#3)</sup>
